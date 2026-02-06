@@ -44,6 +44,10 @@ The project was created as part of the Chai and Code Web Dev Cohort.
 
 ## Screenshots
 
+For Live Link - [Click here](https://adityachaudhary3.github.io/Dev-Tool-Landing-Page---Cursor/)
+
+or visit URL [https://adityachaudhary3.github.io/Dev-Tool-Landing-Page---Cursor/](https://adityachaudhary3.github.io/Dev-Tool-Landing-Page---Cursor/)
+
 Here are some screenshots of the project:
 
 ### Screenshot 1
