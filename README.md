@@ -1,4 +1,4 @@
-# Cursor.ai Landing Page Clone
+# Cursor.com Landing Page Clone
 
 This project is a clone of the Cursor.com landing page, created using only HTML and CSS. This project aims to replicate the design and provide a visually appealing layout.
 
