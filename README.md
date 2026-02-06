@@ -47,9 +47,11 @@ The project was created as part of the Chai and Code Web Dev Cohort.
 Here are some screenshots of the project:
 
 ### Screenshot 1
+<img width="1920" height="1080" alt="scr1" src="https://github.com/user-attachments/assets/98b5d950-936e-41ea-9be0-c3f5e4068c16" />
 
 
 ### Screenshot 2
+<img width="1920" height="1080" alt="scr2" src="https://github.com/user-attachments/assets/fcddecca-589e-42ad-8136-61a8098188b2" />
 
 
 ## Acknowledgements
